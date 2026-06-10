@@ -4,7 +4,7 @@ This repository houses code snippets and resources for the Solidity course prese
 
 Please refer to this for an in-depth explanation of the content:
 
-- [Website](https://omar-web3.com) - Join Omar Osman and enjoy blockchain development courses.
+- [Website](https://omar-web3.com) - Join Omar Web3 and enjoy blockchain development courses.
 - [LinkedIn](https://www.linkedin.com/in/omariosman/) - Connect with me on LinkedIn
 - [Customer Support](https://wa.me/+201038890189) - Contact our customer support team for any concerns.
 
